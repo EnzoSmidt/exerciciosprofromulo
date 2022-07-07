@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExerciciosProfRomulo.Matema
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExerciciosProfRomulo.EscolinhaTicTic", "ExerciciosProfRomulo.EscolinhaTicTic\ExerciciosProfRomulo.EscolinhaTicTic.csproj", "{F4E733AD-F366-4A2B-ACA5-A9015C8D589B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExerciciosProfRomulo.Atividade6", "ExerciciosProfRomulo.Atividade6\ExerciciosProfRomulo.Atividade6.csproj", "{6A3F28A7-B0D5-45B1-9F5A-78FD516F087D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{F4E733AD-F366-4A2B-ACA5-A9015C8D589B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F4E733AD-F366-4A2B-ACA5-A9015C8D589B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F4E733AD-F366-4A2B-ACA5-A9015C8D589B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6A3F28A7-B0D5-45B1-9F5A-78FD516F087D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A3F28A7-B0D5-45B1-9F5A-78FD516F087D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A3F28A7-B0D5-45B1-9F5A-78FD516F087D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A3F28A7-B0D5-45B1-9F5A-78FD516F087D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
